@@ -1,0 +1,10 @@
+USE TEST;
+
+
+SELECT * FROM klant;
+
+mysql -u root -p
+SET GLOBAL time_zone = '+2:00';
+
+
+select now();

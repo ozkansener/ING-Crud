@@ -1,0 +1,15 @@
+
+^
+java:S2095"HUse try-with-resources or close this "Connection" in a "finally" clause.(„Îú°
+>
+java:S1148"#Use a logger to log this exception.(îÙ÷Çùÿÿÿÿ
+0
+java:S1220""Move this file to a named package.
+P
+java:S1854":Remove this useless assignment to local variable "myConn".(„Îú°
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¯©›øûÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(×Ù•Æøÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ß¸çï
+A
+java:S1481"+Remove this unused "myConn" local variable.(„Îú°
+V	java:S125"<This block of commented-out lines of code should be removed.(Ç¯ïñùÿÿÿÿ

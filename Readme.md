@@ -8,3 +8,5 @@ Alle testcases behaald
 Debian
 Gradle
 mysql
+sonal lint
+Intellij

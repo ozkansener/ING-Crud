@@ -22,6 +22,6 @@ public class TestJdbc {
             System.out.println("Gelukt");
         } catch (Exception exc) {
             exc.printStackTrace();
-
+        }
     }
 }
